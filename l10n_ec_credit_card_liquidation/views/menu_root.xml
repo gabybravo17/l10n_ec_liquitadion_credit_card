@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<odoo>
+    <menuitem
+        name="Credit Card"
+        id="account_credit_card_main_menu"
+        parent="l10n_ec_niif.sri_root_menu"
+        sequence="30"
+    />
+</odoo>
